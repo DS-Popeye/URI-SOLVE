@@ -4,7 +4,7 @@ while(True):
         if(a==b):
             break
         elif(a<b):
-            print("Assending")
+            print("Crescente")
         else:
             print("Decrescente")
     except EOFError:
