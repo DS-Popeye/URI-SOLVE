@@ -1,8 +1,16 @@
 N = int(input())
-C = 0
+D = 0
 for i in range(N):
     A,B = list(map(int,input().split()))
     if(A==B):
-        print(C)
-    elif(A<B):
-        print(C+1)
+        print(0)
+    else:
+        if (A > B):
+            C = A
+            A = B
+            B = C
+            while(A < (B - 1)):
+                A += 1
+                if(A % 2 != 0):
+                    D += A
+            print(D)
