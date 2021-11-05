@@ -5,6 +5,7 @@ for i in range(N):
     if(A==B):
         print(0)
     else:
+        C = 0
         if (A > B):
             C = A
             A = B
