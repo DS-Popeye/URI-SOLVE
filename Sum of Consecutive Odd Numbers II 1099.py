@@ -10,7 +10,7 @@ for i in range(N):
             C = A
             A = B
             B = C
-            while(A < (B - 1)):
+            while(A < (B- 1)):
                 A += 1
                 if(A % 2 != 0):
                     D += A

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="071622aa-2c14-48ab-849c-e337a13ade21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sum of Consecutive Odd Numbers II 1099.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sum of Consecutive Odd Numbers II 1099.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +104,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636054171267</updated>
       <workItem from="1636054176019" duration="850000" />
-      <workItem from="1636055101099" duration="3339000" />
+      <workItem from="1636055101099" duration="3663000" />
+      <workItem from="1636118260341" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <created>1636054266150</created>
@@ -147,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636059350417</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="main">
+      <created>1636059757496</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636059757496</updated>
+    </task>
+    <task id="LOCAL-00008" summary="main">
+      <created>1636119603565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636119603566</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +190,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="main" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Banknotes_and_coins_1021_py$Sum_of_Consecutive_Odd_Numbers_II_1099.coverage" NAME="Sum of Consecutive Odd Numbers II 1099 Coverage Results" MODIFIED="1636059690496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Banknotes_and_coins_1021_py$Sum_of_Consecutive_Odd_Numbers_II_1099.coverage" NAME="Sum of Consecutive Odd Numbers II 1099 Coverage Results" MODIFIED="1636119772828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Banknotes_and_coins_1021_py$Banknotes_and_coins_1021.coverage" NAME="Banknotes and coins 1021 Coverage Results" MODIFIED="1636055431191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
