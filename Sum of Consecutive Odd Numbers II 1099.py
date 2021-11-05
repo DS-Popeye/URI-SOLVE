@@ -1,17 +1,17 @@
-N = int(input())
-D = 0
-for i in range(N):
-    A,B = list(map(int,input().split()))
-    if(A==B):
+n = int(input())
+for i in range(n):
+    a,b = list(map(int, input().split()))
+    d = 0
+    if(a==b):
         print(0)
     else:
-        C = 0
-        if (A > B):
-            C = A
-            A = B
-            B = C
-            while(A < (B- 1)):
-                A += 1
-                if(A % 2 != 0):
-                    D += A
-            print(D)
+        c = 0
+        if (a > b):
+            c = a
+            a = b
+            b = c
+        while (a < ( b- 1)):
+            a += 1
+            if(a % 2 != 0):
+                d+= a
+        print(d)
