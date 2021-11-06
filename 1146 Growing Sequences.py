@@ -7,7 +7,7 @@ while(True):
             break
         else:
             for i in range(n):
-                if  j == n:
+                if(j == n):
                     print('%d' % (j), end="\n")
                 else:
                     print('%d' % (j), end=" ")
