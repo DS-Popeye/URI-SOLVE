@@ -1,0 +1,35 @@
+Books:
+  1.Web application hacker's handbook 4th edition
+  2.web hacking 101
+  3.hacker's playbook 1,2,3
+  4.Hacking: The art of Exploitation
+  5.Mastering Modern Web App Pentesting
+  6.OWASP Testing Guide
+
+Youtube:
+   1.Live overflow
+   2.Hacker's Ploid
+   3.New Bostand
+   4.Code Academy
+
+
+Writeups, Articles and Blogs- Medium
+                            - Reddit Forms
+
+
+Practice:
+    Capture The Flug(CTFs) (Game)
+    CTF365,Hack The Box,SecArmy  (Game)
+    vulnhub (VMs) Offline   (Application)
+
+
+
+
+Tools:
+     Burpsuite
+
+
+
+
+BugBounty Company:
+    Hackerone,Bugcrowd
