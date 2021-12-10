@@ -7,10 +7,10 @@
     <orderEntry type="jdk" jdkName="Python 3.9 (venv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Sheduling_Processing" />
-    <orderEntry type="module" module-name="Basic python" />
     <orderEntry type="module" module-name="Celebrity_Checkup" />
     <orderEntry type="module" module-name="pythonProject" />
     <orderEntry type="module" module-name="URI SOLVE" />
+    <orderEntry type="module" module-name="Basic-Python" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />

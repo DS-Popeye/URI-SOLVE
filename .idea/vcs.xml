@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Basic-Python" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Learn-Python-With-Mosh" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/URI SOLVE" vcs="Git" />
   </component>

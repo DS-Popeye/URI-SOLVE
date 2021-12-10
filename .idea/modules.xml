@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Basic python/.idea/Basic python.iml" filepath="$PROJECT_DIR$/Basic python/.idea/Basic python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic-Python/.idea/Basic-Python.iml" filepath="$PROJECT_DIR$/Basic-Python/.idea/Basic-Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Data science/Data_Science_Project/Celebrity_Checkup/.idea/Celebrity_Checkup.iml" filepath="$PROJECT_DIR$/../Data science/Data_Science_Project/Celebrity_Checkup/.idea/Celebrity_Checkup.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sheduling_Processing/.idea/Sheduling_Processing.iml" filepath="$PROJECT_DIR$/Sheduling_Processing/.idea/Sheduling_Processing.iml" />
